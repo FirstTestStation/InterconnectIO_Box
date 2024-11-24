@@ -26,8 +26,8 @@ This project involves the assembly of a custom **InterconnectIO_BOX** designed t
 ## Design Files
 - [Left Card Guide stl File](Drawing/Left_guide_drawing_515-1000.stl) – STL file for the left rail, to be used with a 3D printer.
 - [Rigth Card Guide stl File](Drawing/Right_guide_drawing_515-1010.stl) – STL file for the rigth rail, to be used with a 3D printer.
-- [Front panel drawing](Drawing/Panel_Front_drawing.svg) – SVG file for the front panel, to be used with a laser cutter.
-- [Back panel drawing](Drawing/Panel_Back_drawing.svg) – SVG file for the back panel, to be used with a laser cutter.
+- [Front panel drawing](Drawing/Panel_Front_drawing_512-1000.svg) – SVG file for the front panel, to be used with a laser cutter.
+- [Back panel drawing](Drawing/Panel_Back_drawing_512-1010.svg) – SVG file for the back panel, to be used with a laser cutter.
 - [Bill of Materials(BOM)](pdf/BOM_Hardware_Assembly_InterconnectIO_Box_500-1000.pdf) – List of components required to complete the assembly.
 - [Freecad Folder](Freecad/) – Freecad Original design files.
 
