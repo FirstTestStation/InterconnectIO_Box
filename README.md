@@ -2,7 +2,7 @@
 
 
 ## Project Overview
-This project involves the assembly of a custom **InterconnectIO_BOX** designed to be part of the **First Test Station** project ([FTS](https://dlock8.github.io/FTS_Website/)). The primary goal of the InterconnectIO_BOX is to provide an interface between instruments and the Unit Under Test (U.U.T).
+This project involves the assembly of a custom **InterconnectIO_BOX** designed to be part of the **First TestStation** project ([FTS](https://dlock8.github.io/FTS_Website/)). The primary goal of the InterconnectIO_BOX is to provide an interface between instruments and the Unit Under Test (U.U.T).
 
 ![Box](DOC/Image/InterconnectIO_Box_complete.jpg)
 
