@@ -32,12 +32,18 @@ This project involves the assembly of a custom **InterconnectIO_BOX** designed t
 - [Freecad Folder](Freecad/) – Freecad Original design files.
 
 
-# Verification
+## Verification
 The **InterconnectIO Box** is equipped with multiple built-in features designed to facilitate the comprehensive verification of hardware functionality. It supports **SCPI commands**, allowing for internal testing and diagnostics. The hardware has been engineered specifically to aid in the validation of board functionality, ensuring thorough and efficient testing.
 
 For detailed testing procedures, please refer to the [Test_Instructions](pdf/InterconnectIO_Box_Test_Instruction_520-1010.pdf) document to complete the verification of the InterconnectIO Box.
 
+## License
 
+This project is licensed under the terms of the [CERN Open Hardware Licence Version 2 - Weakly Reciprocal (CERN-OHL-W 2.0)](https://ohwr.org/cern_ohl_w_v2.txt).
+
+See the [LICENSE](./LICENSE) file in this repository for more details.
+
+---
 
 
 
